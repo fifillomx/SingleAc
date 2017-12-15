@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in Sheet_TableViewController.loadImages():Sheet_TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.restaurant_Images">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SheetDataSource.tableView(_:cellForRowAt:):SheetDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentRestaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Main_ViewController.didReceiveMemoryWarning():Main_ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Restaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Main_ViewController.avtivityBtn_TouchUp(_:):Main_ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Restaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sheet_TableViewController.viewWillAppear(_:):Sheet_TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentRestaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sheet_TableViewController.load_Data():Sheet_TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "miUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NetworkOperation.downloadFromURL():Restaurant_Model.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Main_ViewController.createSheetTable():Main_ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Restaurant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidAppear(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewTopAnchor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sheet_TableViewController.loadImage(url:):Sheet_TableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sheet_TableViewController.tableView(_:cellForRowAt:):Sheet_TableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in Sheet_TableViewController.loadImage(url:):Sheet_TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkOperation.downloadFromURL():Restaurant_Model.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reponse.URLRequest">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewTopAnchor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
